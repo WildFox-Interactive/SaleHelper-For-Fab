@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales Management Tool For FAB", "SoldHelper\Sales Management Tool For FAB.csproj", "{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD911B7-114D-490D-BDC9-340332CAB671}
+	EndGlobalSection
+EndGlobal

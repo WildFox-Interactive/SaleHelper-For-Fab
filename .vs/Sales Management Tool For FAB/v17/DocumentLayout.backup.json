@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|solutionrelative:soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\sales management tool for fab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|solutionrelative:soldhelper\\sales management tool for fab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|X:\\Tool_Wildfox\\Sales Management Tool For FAB\\soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|solutionrelative:soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|solutionrelative:soldhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\sales management tool for fab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\Sales Management Tool For FAB.csproj|solutionrelative:soldhelper\\sales management tool for fab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|solutionrelative:soldhelper\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|x:\\tool_wildfox\\sales management tool for fab\\soldhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6CAF7D-29C2-4B9C-A6AA-B708E2D237C9}|SoldHelper\\SoldHelper.csproj|solutionrelative:soldhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "SoldHelper\\Form1.cs",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.cs",
+              "RelativeToolTip": "SoldHelper\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:42:52.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales Management Tool For FAB",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Sales Management Tool For FAB.csproj",
+              "RelativeDocumentMoniker": "SoldHelper\\Sales Management Tool For FAB.csproj",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Sales Management Tool For FAB.csproj",
+              "RelativeToolTip": "SoldHelper\\Sales Management Tool For FAB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T22:29:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "SoldHelper\\Form1.cs",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.cs [Conception]",
+              "RelativeToolTip": "SoldHelper\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:28:07.778Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoldHelper.csproj",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Sales Management Tool For FAB.csproj",
+              "RelativeDocumentMoniker": "SoldHelper\\Sales Management Tool For FAB.csproj",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Sales Management Tool For FAB.csproj",
+              "RelativeToolTip": "SoldHelper\\Sales Management Tool For FAB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T22:19:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SoldHelper\\Form1.Designer.cs",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.Designer.cs",
+              "RelativeToolTip": "SoldHelper\\Form1.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:42:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Program.cs",
+              "RelativeDocumentMoniker": "SoldHelper\\Program.cs",
+              "ToolTip": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Program.cs",
+              "RelativeToolTip": "SoldHelper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:42:39.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "X:\\Tool_Wildfox\\Sales Management Tool For FAB\\SoldHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "SoldHelper\\Form1.cs",
+              "ToolTip": "X:\\Tool_Wildfox\\SoldHelper\\SoldHelper\\Form1.cs [Conception]",
+              "RelativeToolTip": "..\\SoldHelper\\SoldHelper\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:42:24.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

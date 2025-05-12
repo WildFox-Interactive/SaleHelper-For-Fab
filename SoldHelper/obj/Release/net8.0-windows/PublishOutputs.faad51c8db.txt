@@ -1,0 +1,5 @@
+C:\Users\stani\Desktop\Nouveau dossier (4)\Sales Management Tool For FAB.exe
+C:\Users\stani\Desktop\Nouveau dossier (4)\Sales Management Tool For FAB.dll
+C:\Users\stani\Desktop\Nouveau dossier (4)\Sales Management Tool For FAB.deps.json
+C:\Users\stani\Desktop\Nouveau dossier (4)\Sales Management Tool For FAB.runtimeconfig.json
+C:\Users\stani\Desktop\Nouveau dossier (4)\Sales Management Tool For FAB.pdb

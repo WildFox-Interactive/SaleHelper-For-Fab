@@ -1,0 +1,16 @@
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\bin\Debug\net8.0-windows\Sales Management Tool For FAB.exe
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\bin\Debug\net8.0-windows\Sales Management Tool For FAB.deps.json
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\bin\Debug\net8.0-windows\Sales Management Tool For FAB.runtimeconfig.json
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\bin\Debug\net8.0-windows\Sales Management Tool For FAB.dll
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\bin\Debug\net8.0-windows\Sales Management Tool For FAB.pdb
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\SoldHelper.Form1.resources
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.csproj.GenerateResource.cache
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.AssemblyInfoInputs.cache
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.AssemblyInfo.cs
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.csproj.CoreCompileInputs.cache
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.dll
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\refint\Sales Management Tool For FAB.dll
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.pdb
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\Sales Management Tool For FAB.genruntimeconfig.cache
+X:\Tool_Wildfox\Sales Management Tool For FAB\SoldHelper\obj\Debug\net8.0-windows\ref\Sales Management Tool For FAB.dll

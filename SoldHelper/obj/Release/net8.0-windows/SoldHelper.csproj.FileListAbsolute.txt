@@ -1,0 +1,16 @@
+X:\Tool_Wildfox\SoldHelper\SoldHelper\bin\Release\net8.0-windows\SoldHelper.exe
+X:\Tool_Wildfox\SoldHelper\SoldHelper\bin\Release\net8.0-windows\SoldHelper.deps.json
+X:\Tool_Wildfox\SoldHelper\SoldHelper\bin\Release\net8.0-windows\SoldHelper.runtimeconfig.json
+X:\Tool_Wildfox\SoldHelper\SoldHelper\bin\Release\net8.0-windows\SoldHelper.dll
+X:\Tool_Wildfox\SoldHelper\SoldHelper\bin\Release\net8.0-windows\SoldHelper.pdb
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.Form1.resources
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.csproj.GenerateResource.cache
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.GeneratedMSBuildEditorConfig.editorconfig
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.AssemblyInfoInputs.cache
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.AssemblyInfo.cs
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.csproj.CoreCompileInputs.cache
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.dll
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\refint\SoldHelper.dll
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.pdb
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\SoldHelper.genruntimeconfig.cache
+X:\Tool_Wildfox\SoldHelper\SoldHelper\obj\Release\net8.0-windows\ref\SoldHelper.dll
